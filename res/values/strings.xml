@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QRValeAndroid</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_anasayfa">Anasayfa</string>
+    <string name="title_activity_fisolustur">Fiş Oluştur</string>
+    <string name="title_activity_hareket_ayrintilari">HareketAyrintilari</string>
+
+</resources>
